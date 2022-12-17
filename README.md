@@ -1,0 +1,19 @@
+# Coursera--Python-Bash-and-SQL-Essentials-for-Data-Engineering-Specialization
+
+## About this Specialization
+If you are interested in developing the skills needed to be a data engineer, the Python, Bash and SQL Essentials for Data Engineering Specialization is a great place to start. We live in a world that is driven by big data - from what we search online to the route we take to our favorite restaurant, and everything in between. Businesses and organizations use this data to make decisions that impact the ways in which we navigate our lives. How do engineers collect this data? How can this data be organized so that it can be appropriately analyzed? A data engineer is specialized in this initial step of accessing, cleaning and managing big data.
+
+Data engineers today need a solid foundation in a few essential areas: Python, Bash and SQL. In Python, Bash and SQL Essentials for Data Engineering, we provide a nuts and bolts overview of these fundamental skills needed for entering the world of data engineering. Led by three professional data engineers, this Specialization will provide quick and accessible ways to learn data engineering strategies, give you a chance to practice what you’ve learned in integrated lab exercises, and then immediately apply these techniques in your professional or academic life.
+
+### There are 4 Courses in this Specialization
+## 1 Python and Pandas for Data Engineering
+In this first course of the Python, Bash and SQL Essentials for Data Engineering Specialization, you will learn how to set up a version-controlled Python working environment which can utilize third party libraries. You will learn to use Python and the powerful Pandas library for data analysis and manipulation. Additionally, you will also be introduced to Vim and Visual Studio Code, two popular tools for writing software. This course is valuable for beginning and intermediate students in order to begin transforming and manipulating data as a data engineer.
+
+## 2 Linux and Bash for Data Engineering
+In this second course of the Python, Bash and SQL Essentials for Data Engineering Specialization, you will learn the fundamentals of Linux necessary to perform data engineering tasks. Additionally, you will explore how to use both Bash and zsh configurations, and develop the syntax needed to interact and control Linux. These skills will allow you to manage and manipulate databases in a Bash environment.
+
+## 3 Scripting with Python and SQL for Data Engineering
+In this third course of the Python, Bash and SQL Essentials for Data Engineering Specialization, you will explore techniques to work effectively with Python and SQL. We will go through useful data structures in Python scripting and connect to databases like MySQL. Additionally, you will learn how to use a modern text editor to connect and run SQL queries against a real database, performing operations to load and extract data. Finally, you will use extracted data from websites using scraping techniques. These skills will allow you to work effectively when data is not readily available, or when spatial queries are required to extract useful information from databases.
+
+## 4 Web Applications and Command-Line Tools for Data Engineering
+In this fourth course of the Python, Bash and SQL Essentials for Data Engineering Specialization, you will build upon the data engineering concepts introduced in the first three courses to apply Python, Bash and SQL techniques in tackling real-world problems. First, we will dive deeper into leveraging Jupyter notebooks to create and deploy models for machine learning tasks. Then, we will explore how to use Python microservices to break up your data warehouse into small, portable solutions that can scale. Finally, you will build a powerful command-line tool to automate testing and quality control for publishing and sharing your tool with a data registry.
